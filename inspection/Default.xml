@@ -4,6 +4,7 @@
     <option name="ignoredIdentifiers">
       <list>
         <option value="languages.views.*" />
+        <option value="dict.plot" />
       </list>
     </option>
   </inspection_tool>
